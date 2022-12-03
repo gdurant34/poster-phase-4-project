@@ -67,3 +67,11 @@ CreateUserCard
 CreatePost
 CreateGroup
 
+![Screenshot 2022-12-02 at 6 19 41 PM](https://user-images.githubusercontent.com/41603059/205412222-a566385a-faf0-4e4d-a134-2866652311d4.png)
+
+
+![Screenshot 2022-12-02 at 6 19 57 PM](https://user-images.githubusercontent.com/41603059/205412237-b6ad91d1-d187-4f50-bb80-5f6f4a1daf1b.png)
+
+
+![Screenshot 2022-12-02 at 6 20 10 PM](https://user-images.githubusercontent.com/41603059/205412248-76d44d6d-7e37-4be9-b64e-c035864604b4.png)
+
