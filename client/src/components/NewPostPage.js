@@ -52,4 +52,4 @@ function NewPostPage({group, groupPosts, setGroupPosts, setContent, setTitle, se
     )
 }
 
-export default NewPostPage
+export default NewPostPage;
